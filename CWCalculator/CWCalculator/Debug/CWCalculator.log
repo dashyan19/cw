@@ -1,0 +1,11 @@
+﻿  engineering.cpp
+  ordinary.cpp
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\programmatic.h(717,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  programmatic.cpp
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\programmatic.h(717,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Создание кода...
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\engineering.cpp(11): warning C4793: main: функция скомпилирована как машинная:
+  	Встроенный машинный код на языке ассемблера в управляемом коде не поддерживается
+  engineering.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CWCalculator.vcxproj -> E:\Универ\1 курс\курсач\CWCalculator\Debug\CWCalculator.exe

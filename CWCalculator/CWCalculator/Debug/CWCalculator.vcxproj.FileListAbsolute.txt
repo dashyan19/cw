@@ -1,0 +1,10 @@
+C:\Users\Дарья\Desktop\CWCalculator\CWCalculator\Debug\CWCalculator.vcxproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\CWCalculator\CWCalculator\Debug\CWCalculator.ordinary.resources
+C:\Users\Дарья\Desktop\CWCalculator\CWCalculator\Debug\CWCalculator.vcxproj.GenerateResource.cache
+C:\Users\Дарья\Desktop\CWCalculator\CWCalculator\Debug\CWCalculator.engineering.resources
+C:\Users\Дарья\Desktop\CWCalculator\CWCalculator\Debug\CWCalculator.programmatic.resources
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\Debug\CWCalculator.vcxproj.AssemblyReference.cache
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\Debug\CWCalculator.engineering.resources
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\Debug\CWCalculator.ordinary.resources
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\Debug\CWCalculator.programmatic.resources
+E:\Универ\1 курс\курсач\CWCalculator\CWCalculator\Debug\CWCalculator.vcxproj.GenerateResource.cache
